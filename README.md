@@ -1,7 +1,8 @@
 # fun-gpt-assisstant
 # FunChat Virtual Assistant
 
-![Assistant Logo](assistant_logo.png)
+![Assistant Logo](![image](https://github.com/shriyansh7/fun-gpt-assisstant/assets/95204564/ef43d098-0ce7-4879-8e43-e6b172ff85c4)
+)
 
 Welcome to the FunChat Virtual Assistant! This is a Python-based virtual assistant that can perform various tasks like providing weather updates, telling jokes, offering interesting facts, recommending movies, answering questions, and more. It's powered by OpenAI's GPT-3 engine.
 
